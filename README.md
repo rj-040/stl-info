@@ -3,7 +3,7 @@
 # General Information
 
 Information about the Simple ToDo List app.  
-This repo contains all info required by Appstore Connect, published on Github Pages.  
+This repo contains all info required by Appstore Connect.  
 
 # Privacy
 
