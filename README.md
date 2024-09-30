@@ -4,7 +4,7 @@
 
 Information about the Simple ToDo List app.  
 See details in Apple AppStore.  
-https://apps.apple.com/app/id6736343037  
+(https://apps.apple.com/app/id6736343037)[https://apps.apple.com/app/id6736343037]  
 
 # Privacy
 
